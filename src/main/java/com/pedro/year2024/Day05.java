@@ -1,4 +1,4 @@
-package com.pedro;
+package com.pedro.year2024;
 
 
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 /**
  * From the problem statement found here: https://adventofcode.com/2024/day/5
  */
-public class DayFive2024 {
+public class Day05 {
 
     public static void main(String[] args) {
 

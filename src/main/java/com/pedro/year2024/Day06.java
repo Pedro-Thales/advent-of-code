@@ -1,4 +1,4 @@
-package com.pedro;
+package com.pedro.year2024;
 
 
 import java.io.*;
@@ -9,7 +9,7 @@ import java.util.*;
  * From the problem statement found here: https://adventofcode.com/2024/day/6
  */
 
-public class DaySix2024 {
+public class Day06 {
 
     public static void main(String[] args) throws URISyntaxException, IOException {
 
